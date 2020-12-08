@@ -20,6 +20,6 @@ _Imam Abdulrahman Bin Faisal University_ **_2016_**
 
 _Institute of Public Administration_ **_2017 - Present_**
 
-Develop the subject guideline and make it available to teaching team and students.
-Supervise or assist with supervision of undergraduate.
-Participate in departmental and faculty seminars aimed at sharing research outcomes and building interdisciplinary collaboration within and outside the department.
+  * Develop the subject guideline and make it available to teaching team and students.
+  * Supervise or assist with supervision of undergraduate.
+  * Participate in departmental and faculty seminars aimed at sharing research outcomes and building interdisciplinary collaboration within and outside the department.
