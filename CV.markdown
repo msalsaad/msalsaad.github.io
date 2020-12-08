@@ -8,9 +8,11 @@ title:  CV
 #### [m_alsaad@uncg.edu](mailto:m_alsaad@uncg.edu)
 ## Education
 **Currently pursuing Master's Degree,** Library and Information Science
+
 _University of North Carolina at Greensboro_ **_2020_**
 
 **Completed a Bachelor's Degree** Library and Information Science with a GPA of 4.52 (Out of 5).
+
 _Imam Abdulrahman Bin Faisal University_ **_2016_**
 
 ## Experience
