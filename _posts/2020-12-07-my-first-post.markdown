@@ -8,4 +8,4 @@ categories: Information Science
 ## Library Databases
 
 The library database is an electronic index that can be used to search for information sources through accessing different types of useful research information sources such as academic journals, newspapers, magazines, e-books, websites, or various multimedia.
-from : https://chat.library.berkeleycollege.edu/faq/89790
+from : [https://chat.library.berkeleycollege.edu/faq/89790](https://chat.library.berkeleycollege.edu/faq/89790)
