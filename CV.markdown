@@ -6,7 +6,8 @@ title:  CV
 
 ## Maha Alsaad
 #### [m_alsaad@uncg.edu](mailto:m_alsaad@uncg.edu)
-cv: https://drive.google.com/file/d/1bLbLcisIVu2vw4pPNKkmKvs9tiVeyVJu/view?usp=sharing
+CV:
+[I'm an inline-style link]( https://drive.google.com/file/d/1bLbLcisIVu2vw4pPNKkmKvs9tiVeyVJu/view?usp=sharing)
 
 ## Education
 **Master's Degree,** Library and Information Science
